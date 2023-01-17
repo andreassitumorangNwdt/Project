@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Udemy\\Jomas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Udemy\\Jomas\\Project\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Udemy\\Jomas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Udemy\\Jomas\\Project\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Udemy\\Jomas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Udemy\\Jomas\\Project\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Udemy\\Jomas\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Udemy\\Jomas\\Project\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Andreas situmorang\\.nuget\\packages\\",
-        "outputPath": "D:\\Udemy\\Jomas\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Udemy\\Jomas\\Project\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
